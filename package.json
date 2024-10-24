@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "@marscollective/gatsby-theme-link-free": "^0.2.7",
-    "gatsby": "^5.0.0",  // تحديث إلى إصدار أحدث من Gatsby
+    "gatsby": "^5.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "postcss": "^8.4.21"  // إضافة postcss لحل المشكلة
+    "postcss": "^8.4.21"
   },
   "devDependencies": {
     "prettier": "2.2.1"
